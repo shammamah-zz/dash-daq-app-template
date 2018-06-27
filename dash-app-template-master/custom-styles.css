@@ -1,0 +1,32 @@
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Banner
+
+
+/* Banner
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.banner {
+    height: 75px;
+    background-color: #414073;
+    border-radius: 5px 5px 2px 2px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+}
+
+.banner h2{
+    color: white;
+    margin-left: 1.5%;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size:4rem;
+line-height:1;
+}
+
+.banner Img{
+    position: relative;
+    float: right;
+    right: 1.5%;
+    height: 75px;
+}
